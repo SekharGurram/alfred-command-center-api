@@ -1,4 +1,4 @@
-# Alfred-command-center
+# Alfred-command-center-api
 🛠️ Getting Started
 
 1)Clone this project using the GitHub link:
